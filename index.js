@@ -4,6 +4,7 @@ const app = express();
 const PORT = process.env.PORT || 9000;
 const cors = require("cors");
 const recipesRoutes = require("./routes/recipes.js");
+const axios = require("axios");
 
 // added middleware to allow any origin (front-end) to interact with API
 app.use(cors());
