@@ -94,11 +94,11 @@
       "shredded mozzarella cheese: 1 cup"
     ],
     "directions": "Make Dough: Add masa harina (corn flour) and salt to a large mixing bowl. Add the warm water, little by little, mixing the dough with your hand. You may not need all of the water. You want the masa to be the consistency of a soft play dough. If the dough is too wet, mix in some more masa harina. If it’s too dry, add a little more water. Mix in butter and chicken bouillon, if using. Scoop into balls: Scoop the dough into large, golf-ball-size portions. You can scoop all of the dough into balls before continuing, or make 1 pupusa at a time. Be sure to keep the dough covered with a damp cloth as you work, to keep it from drying out. Flatten and add filling: Use the palms of your hands to pat the dough into a disc, about 4 inches in diameter. Scoop about half a tablespoon of the beans and place it in the center of the dough circle, followed by a pinch of shredded cheese.  Shape into disc: Gently bring the edges of the dough up and around the filling, pinching it closed into a ball. Gently pat the dough between your palms to form it into a disc again. Be gentle so you don’t have big cracks of filling come through, but if you do have some, its fine! They don’t need to be perfect. Cook: Heat a large un-greased skillet or pan over medium heat. Place pupusas on the hot pan and cook for about 2-4 minutes on each side. You will know the pupusas are ready to flip when the edges are set and the bottom is lightly golden.",
-    "Time": "45 minutes",
+    "time": "45 minutes",
     "id": "5"
   },
   {
-    "title": "Borscht",
+    "title": "Borshch",
     "image": "http://localhost:9000/images/borsh.jpg",
     "ingredients": [
       "extra virgin olive oil: 3 teaspoons",

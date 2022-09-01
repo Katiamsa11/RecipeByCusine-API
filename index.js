@@ -12,11 +12,9 @@ axios.defaults.headers.common = {
   Authorization: "Bearer " + API_KEY,
 };
 
-
 app.use(cors());
 
 app.use(express.json());
-
 
 app.use("/images", express.static("./images"));
 
