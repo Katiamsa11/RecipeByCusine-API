@@ -67,28 +67,19 @@
     "id": "3"
   },
   {
-    "title": "Arepas",
-    "image": "http://localhost:9000/images/arepa.jpg",
+    "title": "Fried Plantains",
+    "image": "http://localhost:9000/images/Plantains.jpeg",
     "ingredients": [
-      "beef with bones: 2 kg",
-      "ginger, sliced: 2",
-      "garlic: 1 bulb",
-      "spring onion: 3",
-      "star anise: 3",
-      "bay leaves: 3",
-      "Cinnamon stick: 1",
-      "Black pepper: 1 tbsp",
-      "Sugar: 1 tbsp",
-      "Soy sauce: 3 tbsp",
-      "Beef stock cube: 5g cube",
-      "Dried rice noodles ( pre-soaked in water for 1 hour ): 100 g",
-      "Coriander ( chopped ): to taste",
-      "Bean sprouts blanched: to taste",
-      "Fresh chilli ( sliced ): to taste",
-      "Lime wedges: 2"
+      "3 Green Plantains: 3pcs",
+      "Vinegar: 1 tablespoon(s)",
+      "Salt: 1 tablespoon(s) ",
+      "Garlic Powder: 1 teaspoon(s) ",
+      "Vegetable Oil: 1 cup(s) ",
+      "Plantain Press: 1 Tostonera",
+      "Hot Water: 1 cup"
     ],
-    "directions": "First blanch the beef to remove the impurities from the bones. Fill the large pot with water about 3 litre, bring it to boil and place the beef. Boil for 6-8 minutes then drain all the water out. Rinse the beef bones with cold running water. ( Water should be cover the beef bones. ). Place the beef back in the large pot, fill about 3 litre cold water. Add ginger, garlic, spring onions, cinnamon, star anise, bay leaves, soy sauce, sugar, beef stock cube and black pepper. Bring it to boil, once it start boiling, turn down the heat, close the lid and simmer with low-medium heat for 1.5 to 2 hours, until the beef is tender. Once the beef is tender, strain the beef, bones and herbs out from the broth. Discard the beef bones and herbs. Cut the meat into small bite size pieces and set it aside. To season the beef broth, make a taste test and add salt and black pepper powder. Keep it warm. (If the soup broth is too thick, you can add a bit more water according to your desire consistency). To Serve - Boil the pre-soaked rice noodles in the hot boiling water for 1-2 minutes until soften. ( Or boil according to the packet instructions. ) Then blanch the bean sprouts for few seconds. Place the noodles in the serving bowl pour the beef broth in. Topped with beef pieces, blanched bean spouts, chilli slices, chopped coriander and lime wedges.",
-    "time": "1 hour",
+    "directions": "Heat Oil on medium high heat in a deep fryer or frying pan. Peel plantains and angle cut each one into 5 equal pieces.In a bowl add the hot water, vinegar, salt and set aside.Lightly brown the plantains in the oil (Approximately 5 min).Remove the plantains from the oil and flatten each plantain using the tostonera.Soak the flattened plantains in the hot water and carefully back in the oil for an additional 5 min.Remove plantains from oil and place them on a paper towel to remove the excess oil. Serve hot",
+    "time": "30 min",
     "id": "4"
   },
   {
@@ -128,9 +119,14 @@
   {
     "title": "Arepas",
     "image": "http://localhost:9000/images/arepa.jpg",
-    "ingredients": ["warm water: 2 cups", "sea salt: 2 tsp", "areparina: 2 cups", "cooking oil: 1 tbsp"],
+    "ingredients": [
+      "warm water: 2 cups",
+      "sea salt: 2 tsp",
+      "areparina: 2 cups",
+      "cooking oil: 1 tbsp"
+    ],
     "directions": "Preheat oven to 350 degrees F (176 C). Set out a baking sheet and line with parchment paper. And to a large mixing bowl, add water and salt. Stir to combine and dissolve salt. A little at a time, add the areparina and stir with a whisk or your hands (our preferred method). You may work your way all the way up to two cups, although we typically have 1-2 Tbsp leftover. You’re looking for a dough that doesn’t easily stick to your hands, is moldable and moist, and can be rolled into a ball. Once you have that consistency, cover with a towel for 5 minutes. We did mix both white and yellow areparina as inspired by Teote (optional).  Uncover, grab a large handful of dough, and roll into a ball (as the recipe is written, our batch made 6 large arepas, but it could also make 8-10 smaller arepas).  Carefully press the ball between the palms of your hands to form into a roughly 1/2-inch thick disc (for thinner, crispier arepas, press closer to 1/4 inch). If it cracks a lot on the sides, your dough may need 1-2 (15-30 ml) more water. A little cracking is OK – just use your hands to close the cracks by gently patting along the edges (see photo). Once the arepas are formed, heat a large cast-iron or non-stick pan over medium-high heat. Once hot, add a little oil and swirl to coat. Then add arepas, giving them a little room in between so they don’t touch. Cook for 2-3 minutes or until deep golden brown (a few blackened spots are OK). You’re looking to form a crust. Then flip and cook for 2-3 minutes more or until the underside is also browned. Transfer to your parchment-lined baking sheet and bake for 15-18 minutes or until slightly puffed up and a little more golden brown in color. Some people like to slice into them immediately, but I find they can be a little doughy in the middle at that stage, so I prefer to let them cool for 5-10 minutes and serve while they’re warm but not piping hot.",
     "time": "30 minutes",
     "id": "7"
-}
+  }
 ]

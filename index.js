@@ -12,12 +12,12 @@ axios.defaults.headers.common = {
   Authorization: "Bearer " + API_KEY,
 };
 
-// added middleware to allow any origin (front-end) to interact with API
+
 app.use(cors());
 
 app.use(express.json());
 
-// added middleware to allow to serve static files
+
 app.use("/images", express.static("./images"));
 
 app.use("/recipes", recipesRoutes);
@@ -34,7 +34,7 @@ app.get("/restaurants", (req, res) => {
     });
 });
 
-//listening on port 8000
+//listening on port 9000
 app.listen(PORT, () => {
   console.log("App has started at port " + PORT);
 });
