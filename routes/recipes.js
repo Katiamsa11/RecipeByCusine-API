@@ -39,7 +39,8 @@ router.post("/", (req, res) => {
     title: req.body.title,
     image: "http://localhost:9000/images/cooking.jpg",
     ingredients: req.body.ingredients,
-    method: req.body.method,
+    directions: req.body.directions,
+    time: "2hrs",
   };
 
   const recipes = readRecipe();
