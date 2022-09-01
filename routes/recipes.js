@@ -26,9 +26,9 @@ router.get("/", (req, res) => {
 });
 
 router.post("/", (req, res) => {
-  const { title, ingredients, method } = req.body;
+  const { title, ingredientsData, directions } = req.body;
 
-  if (!title || !method || !ingredients) {
+  if (!title || !directions || !ingredientsData) {
     return res
       .status(400)
       .json({ error: "please input title and description!" });
@@ -38,9 +38,9 @@ router.post("/", (req, res) => {
     id: crypto.randomUUID(),
     title: req.body.title,
     image: "http://localhost:9000/images/cooking.jpg",
-    ingredients: req.body.ingredients,
+    ingredients: req.body.ingredientsData,
     directions: req.body.directions,
-    time: "2hrs",
+    time: "2 hours",
   };
 
   const recipes = readRecipe();
